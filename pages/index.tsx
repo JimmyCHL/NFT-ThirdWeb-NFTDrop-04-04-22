@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { sanityClient, urlFor } from '../sanity'
 import { Collection } from '../typing'
-import Link from 'next/Link'
+import Link from 'next/link'
 import { ReactNode } from 'react'
 
 interface Props {
