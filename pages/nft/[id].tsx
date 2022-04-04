@@ -9,7 +9,7 @@ import {
 import { sanityClient, urlFor } from '../../sanity'
 import { Collection } from '../../typing'
 import { BigNumber } from 'ethers'
-import Link from 'next/Link'
+import Link from 'next/link'
 import toast, { Toaster } from 'react-hot-toast'
 
 interface Props {
